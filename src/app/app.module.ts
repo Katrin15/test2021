@@ -37,7 +37,7 @@ export function HttpLoaderFactory(http: HttpClient): TranslateLoader {
     TranslateModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [ AppComponent ]
 })
 export class AppModule {
 }
